@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'T bt rồi,chủ nhật t chở m về đc chx 😘😘',
     messDesc: '10h45 Chủ nhật chở bé đi về nhaaaa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' 
+    messLink: 'https://www.messenger.com/t/100094124898163 
 }
