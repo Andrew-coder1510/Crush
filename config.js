@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Vì mình yêu ban!',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'T bt rồi,chủ nhật t chở m về đc chx 😘😘',
-    messDesc: '10h45 Chủ nhật chở bé đi về nhaaaa.',
+    messDesc: '10h45 Chủ nhật chở bé đi về nhaaaaaa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' 
 }
